@@ -1,0 +1,14 @@
+# Output build directory
+out/
+bin/
+target/
+
+# Compiled class files
+*.class
+
+# Log / temp files
+*.log
+sources_main.txt
+sources_test.txt
+.DS_Store
+Thumbs.db
