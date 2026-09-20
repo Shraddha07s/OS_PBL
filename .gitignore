@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Node & Build artifacts
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.env
+.DS_Store
